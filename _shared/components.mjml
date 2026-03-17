@@ -1,0 +1,31 @@
+<mj-raw>
+  <mj-component name="header">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold">
+          {{company_name}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-component>
+</mj-raw>
+
+<mj-raw>
+  <mj-component name="footer">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="14px">
+          © 2024 Chris Norton
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-component>
+</mj-raw>
+
+<mj-raw>
+  <mj-component name="ctabutton">
+    <mj-button background-color="var(--primary)">
+      {{label}}
+    </mj-button>
+  </mj-component>
+</mj-raw>

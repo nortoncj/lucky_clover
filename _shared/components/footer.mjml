@@ -1,0 +1,5 @@
+<mj-raw>
+  <mj-component name="footer"> <mj-section> <mj-column> <mj-text
+  font-size="14px"> © 2024 Chris Norton </mj-text> </mj-column> </mj-section>
+  </mj-component>
+</mj-raw>

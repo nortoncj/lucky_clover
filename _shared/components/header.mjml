@@ -1,0 +1,6 @@
+<mj-raw>
+  <mj-component name="header"> <mj-section> <mj-column> <mj-text
+  font-size="20px" font-weight="bold">
+  {{ company_name }}
+  </mj-text> </mj-column> </mj-section> </mj-component>
+</mj-raw>

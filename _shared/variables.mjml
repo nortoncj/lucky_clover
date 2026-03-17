@@ -1,0 +1,6 @@
+
+
+<mj-raw>
+  {{ company_name = "Webtech Ninjas" }}
+  {{ label = "Get Started" }}
+</mj-raw>

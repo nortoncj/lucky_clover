@@ -1,0 +1,5 @@
+<mj-raw>
+  <mj-component name="CTAButton"> <mj-button background-color="var(--primary)">
+  {{ label }}
+  </mj-button> </mj-component>
+</mj-raw>
